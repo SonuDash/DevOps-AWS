@@ -63,3 +63,5 @@ Let suppose the product manager does not just want the information but also want
 ```
 crontab -e
 ```
+
+*The rest of the commands to integrate our file with crontab is updated in the crontab.sh file of this repo []*
