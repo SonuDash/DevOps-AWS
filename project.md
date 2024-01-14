@@ -15,10 +15,12 @@ This project will enable a scheduled publishing of the report containing the fol
 - AWS EC2 instance connection
 
 ## Commands in shell
-**initialisation**
+**Initialisation**
 ```
 vim aws_resource_tracker.sh
 ```
+_The content of the file can be found in the aws_resource_tracker.sh file in this repo []_
+****
 
 ```
 ubuntu@ip-172-31-32-157:~$ ./aws_resource_tracker.sh
