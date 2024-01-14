@@ -1,6 +1,25 @@
-# Hello this is my first project on DevOps
+# AWS Resource Tracker
+## Purpose:
+This project will automate the weekly resources usage information logging for a company thereby saving a lot of precious **time** of the organisation and the team working on a particular project.
 
-###
+## Description:
+This project will enable a scheduled publishing of the report containing the following key features:
+- AWS S3 Bucket
+- AWS EC2 instances
+- AWS IAM users
+- AWS Lambda functions
+
+##  Pre-Requisite:
+- bash
+- AWS CLI
+- AWS EC2 instance connection
+
+## Commands in shell
+**initialisation**
+```
+vim aws_resource_tracker.sh
+```
+
 ```
 ubuntu@ip-172-31-32-157:~$ ./aws_resource_tracker.sh
 + echo 'print the list of AWS S3 buckets'
