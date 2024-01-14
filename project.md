@@ -54,3 +54,12 @@ print the list of IAM users
 ubuntu@ip-172-31-32-157:~$
 
 ```
+
+## Integrating Cronjob for automation
+### Purpose:
+Let suppose the product manager does not just want the information but also wants the information delivered by lunchtime every Wednesday so that he can monitor the advancements and take necessary decisions
+
+**Initialising crontab**
+```
+crontab -e
+```
