@@ -9,3 +9,5 @@ This project will automate the weekly resources usage information logging for a 
 - Ubuntu shell
 - Ubuntu EC2 instance
 - Crontab
+
+LINK: **_[https://github.com/SonuDash/DevOps-AWS/tree/main/aws_resource_tracker]_**
