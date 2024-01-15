@@ -66,4 +66,4 @@ crontab -e
 ```
 
 *The rest of the commands to integrate our file with crontab is updated in the crontab.sh file of this repo 
-[https://github.com/SonuDash/DevOps-AWS/blob/main/crontab.sh]*
+[https://github.com/SonuDash/DevOps-AWS/blob/main/aws_resource_tracker/crontab.sh]*
