@@ -15,6 +15,7 @@ LINK: **_[https://github.com/SonuDash/DevOps-AWS/tree/main/aws_resource_tracker]
 ## 2. Project-2 
 ### GitHub users list
 This project will automate the painstalking and repeatitve task of checking the members of a particular repo of an organisation using simple shell scripting and Git API.
+
 **Reources used:**
 - Ubuntu shell
 - Ubunut EC2 instance
