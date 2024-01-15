@@ -12,7 +12,7 @@ This version 1 of this project will help us see the non admin contributors/membe
 - Need to be admin of a GitHub Organisation
 
 ## Commands in shell:
-### Initialisation:
+#### Initialisation:
 ```
 bash
 vim list_users.sh
