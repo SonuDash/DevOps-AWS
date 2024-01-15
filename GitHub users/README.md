@@ -17,7 +17,7 @@ This version 1 of this project will help us see the non admin contributors/membe
 bash
 vim list_users.sh
 ```
-**Note: the file list_users.sh is available in the following link: _[]_**
+**Note: the file list_users.sh is available in the following link: _[https://github.com/SonuDash/DevOps-AWS/blob/main/GitHub%20users/list_users.sh]_**
 #### Compilation:
 ```
 chmod 777 list_users.sh
