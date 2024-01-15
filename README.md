@@ -11,3 +11,6 @@ This project will automate the weekly resources usage information logging for a 
 - Crontab
 
 LINK: **_[https://github.com/SonuDash/DevOps-AWS/tree/main/aws_resource_tracker]_**
+
+## 2. Project-2 
+
