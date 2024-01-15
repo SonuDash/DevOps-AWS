@@ -21,7 +21,7 @@ This project will enable a scheduled publishing of the report containing the fol
 vim aws_resource_tracker.sh
 ```
 _The content of the file can be found in the aws_resource_tracker.sh file in this repo 
-[https://github.com/SonuDash/DevOps-AWS/blob/main/aws_resource_tracker.sh]_
+_[https://github.com/SonuDash/DevOps-AWS/blob/main/aws_resource_tracker/aws_resource_tracker.sh]_
 
 **Compiling and Output command**
 ```
