@@ -22,3 +22,5 @@ This project will automate the painstalking and repeatitve task of checking the 
 - GitHub API
 
 LINK: **_[https://github.com/SonuDash/DevOps-AWS/tree/main/GitHub%20users]_**
+
+## Merge Conflicts:
