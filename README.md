@@ -24,3 +24,14 @@ This project will automate the painstalking and repeatitve task of checking the 
 LINK: **_[https://github.com/SonuDash/DevOps-AWS/tree/main/GitHub%20users]_**
 
 ## Merge Conflicts:
+
+**What is merge conflict?**
+1. Merge Conflicts happen when 2 different changes happen at the same address.
+2. They can be frustrating
+
+**How to solve merge conflict?**
+1. Manually open the file and check for the conflict
+2. Conflict resolving after careful discussion with the team
+3. Make changes into the file
+4. git add the file
+5. Finally commit the changes
