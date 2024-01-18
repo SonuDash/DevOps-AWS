@@ -35,3 +35,13 @@ LINK: **_[https://github.com/SonuDash/DevOps-AWS/tree/main/GitHub%20users]_**
 3. Make changes into the file
 4. git add the file
 5. Finally commit the changes
+
+## 3. Project-3
+### Deploying a static website using AWS EC2 instance
+This project intends to deploy a static website into an Amazon EC2 instance.
+
+**Resources Used**
+- Ubuntu EC2 intance
+- GitHub frontend project
+- Node JS
+- VS Code
