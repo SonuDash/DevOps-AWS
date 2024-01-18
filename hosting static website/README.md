@@ -41,3 +41,40 @@ npm run start
 ```
 
 AND all set the project is up and running!! But in localhost
+
+### Deployment in Ubuntu EC2 instance:
+1. We need to make an Ubuntu based EC2 instance in the AWS (best to make it as an IAM user)
+2. We need to use a 3rd party X-server providing application (I use MobaXterm)
+3. We initialize git with:
+```
+git init
+```
+4. To keep our Ubunut _healthy and up to date_ we use:
+```
+sudo apt install
+```
+5. then we install NodeJS
+```
+sudo apt install nodejs
+```
+6. then we install npm
+```
+sudo apt install npm
+```
+7. then we obviously set up the environment option with .env file
+```
+vim .env
+```
+```
+DOMAIN= ""
+PORT=
+STATIC_DIR="./client"
+
+PUBLISHABLE_KEY=""
+SECRET_KEY=""
+```
+8. then we initiallize and start the project
+```
+npm install
+npm run start
+```
