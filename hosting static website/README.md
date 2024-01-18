@@ -78,3 +78,12 @@ SECRET_KEY=""
 npm install
 npm run start
 ```
+## Deployment (Final Stage (I Promise You))
+We will observe that even if after so many steps, if we take the public ipv4 address of our EC2 instance and add the port value to it the application wont run .
+Hence, we need to go to do the following:
+
+AWS EC2 -> Instances -> running instance -> Security -> Security groups -> Edit Inbound rules -> set port: port num; set source 0.0.0.0/0
+
+And reload to see the **magic**.
+
+PS- Thank you Rachel Gupta for the frontend project.
