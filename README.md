@@ -45,3 +45,5 @@ This project intends to deploy a static website into an Amazon EC2 instance.
 - GitHub frontend project
 - Node JS
 - VS Code
+
+LINK:**_[https://github.com/SonuDash/DevOps-AWS/tree/main/hosting%20static%20website]_**
